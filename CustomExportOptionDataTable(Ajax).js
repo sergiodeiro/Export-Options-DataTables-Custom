@@ -3,7 +3,7 @@
 		{
 			var $ = jQuery;
 
-			var table = $("#table-2").DataTable({
+			var table = $("#").DataTable({
 				dom: 'Brltip',
 				buttons: [
 				'copyHtml5',
